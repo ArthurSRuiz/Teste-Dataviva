@@ -1,3 +1,3 @@
 # Teste-Dataviva
 
-Aqui se encontra o código desenvolvido para o Teste de Estágio em Engenharia de Dados da empresa Dataviva
+Código desenvolvido para o Teste de Estágio em Engenharia de Dados da empresa Dataviva
